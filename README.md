@@ -73,6 +73,17 @@
   </tr>
   <tr>
     <td>
+      <b><a href="https://github.com/Gaoc3/distributed-task-orchestrator">⚡ Distributed Task Orchestrator</a></b>
+    </td>
+    <td>
+      High-throughput task queue and sliding token-bucket rate limiter in TypeScript, featuring multi-tier priority scheduling, exponential backoff retries, and live telemetry over WebSockets.
+    </td>
+    <td>
+      <code>TypeScript</code> <code>Node.js</code> <code>Redis</code> <code>WebSockets</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <b><a href="https://github.com/Gaoc3/alex-cinema">🎬 AleX Cinema</a></b><br/>
       <i><a href="https://cinax.live">🌐 Live Platform</a></i>
     </td>
