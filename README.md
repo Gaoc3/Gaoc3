@@ -158,8 +158,10 @@
 ## 📊 GitHub Analytics & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaoc3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Hussain's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaoc3&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Gaoc3/Gaoc3/main/assets/github-stats.svg" height="180" alt="Hussain's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Gaoc3/Gaoc3/main/assets/top-langs.svg" height="180" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Gaoc3/Gaoc3/main/assets/streak-stats.svg" height="180" alt="GitHub Streak" />
 </div>
 
 <br/>
